@@ -8,7 +8,9 @@ const Create = () => {
     <div>
       <form> 
         <input className='block border-b outline-0 p-2' 
-        {...register ('image')} type="file" />hello
+        {...register ('image')} type="file" />
+        <input className='block border-b outline-0 p-2' 
+        {...register ('image')} type="file" />
         <input className='block border-b outline-0 p-2' 
         {...register ('title')} type="text" placeholder='Recipe Title'/>
       
