@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.3.2",
     "id": "^0.0.0",
     "nano": "^11.0.6",
+    "nanoid": "^6.0.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "react-hook-form": "^7.81.0",
